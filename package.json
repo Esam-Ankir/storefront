@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^7.2.6",
+    "react-scripts": "5.0.1",
+    "redux": "^4.1.2",
+    "redux-devtools-extension": "^2.13.9",
+    "web-vitals": "^2.1.4"
+  },
+  "name": "storefront",
+  "description": "An online shopping portal for a fictional store",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Esam-Ankir/storefront.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Esam-Ankir/storefront/issues"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
